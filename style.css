@@ -65,10 +65,10 @@ footer{
 
 }
 
-button:hover{
+input:hover{
     background-color: orangered;
 }
 
-button:active{
+input:active{
     background-color: chartreuse;
 }
